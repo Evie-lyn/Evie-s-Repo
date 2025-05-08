@@ -1,8 +1,8 @@
 use std::io;
 use std::collections::HashMap;
-
+//memoized version!!
 fn main() {
-    println!("Fibonacci Sequence!");
+    println!("The nth term of Fibonacci Sequence!");
     
     loop{
         println!("Please input the nth term.");
